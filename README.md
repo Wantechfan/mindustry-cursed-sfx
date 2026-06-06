@@ -1,3 +1,5 @@
+![icon](icon.png)
+
 # Cursed SFX
 [![Badge Discord]][Discord]
 
